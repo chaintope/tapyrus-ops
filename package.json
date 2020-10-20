@@ -2,7 +2,8 @@
   "name": "tapyrus-ops",
   "version": "0.1.0",
   "description": "tapyrus OP codes",
-  "author": "Daniel Cousens",
+  "author": "Hajime Yamaguchi <h_yamaguchi@chaintope.com>",
+  "contributors": ["Daniel Cousens"],
   "license": "MIT",
   "repository": {
     "type": "git",
